@@ -17,3 +17,5 @@ Olá, estou começando agora no mundo da programação, gosto de resolver proble
   <img src="https://github-readme-stats.vercel.app/api?username=yasminmarangao&show_icons=true&theme=midnight-purple"/>
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasminmarangao&layout=compact&hide=shell&theme=midnight-purple"/>
 </div>
+![Snake animation](https://github.com/yasminmarangao/yasminmarangao/blob/output/github-contribution-grid-snake.svg)
+ 
