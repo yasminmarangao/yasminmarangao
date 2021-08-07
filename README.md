@@ -12,14 +12,15 @@ Olá, estou começando agora no mundo da programação, gosto de resolver proble
 [![Gmail Badge](https://img.shields.io/badge/-yasmin.marangaog@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yasmin.marangaog@gmail.com)](mailto:yasmin.marangaog@gmail.com)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="YasminJava" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Yasmin-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Yasmin-.NETcore" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"> 
+  <img align="center" alt="YasminJava" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yasmin-angular" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
   <img align="center" alt="Yasmin-sqlserver" height="40" width="40" src="https://img.icons8.com/color/452/microsoft-sql-server.png">
-  <img align="center" alt="Yasmin-sqlserver" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/angular_logo_icon_169595.png">
-  <img align="center" alt="Yasmin-sqlserver" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png"> 
   <img align="right" alt="YAS-programacao" src="https://thumbs.gfycat.com/GlossyPowerfulAmericanmarten-max-1mb.gif">
+  
 </div>
-
+<hr>
 
 <br/>
 
