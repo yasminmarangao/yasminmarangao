@@ -34,3 +34,12 @@ Olá, estou começando agora no mundo da programação, gosto de resolver proble
   ![Snake animation](https://github.com/yasminmarangao/yasminmarangao/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+<p align="center"> 
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/yasminmarangao/count.svg" />
+ </p>
+
+</p>
