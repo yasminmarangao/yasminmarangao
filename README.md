@@ -23,6 +23,8 @@ Olá, estou começando agora no mundo da programação, gosto de resolver proble
 <hr>
 
 <br/>
+<br/>
+<br/>
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=yasminmarangao&show_icons=true"/>
